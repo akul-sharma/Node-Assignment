@@ -1,0 +1,19 @@
+.box{
+    background: #fff;
+    font-family: Montserrat, sans-serif;;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: bold;
+    color: #04b8a6;
+    padding: 40px;
+    box-shadow:
+    
+        inset #BCEAD5 0 0 0 20px, 
+       
+      inset #1fbdae 0 0 0 10px, 
+      inset #8ce9ff 0 0 0 16px, 
+      inset #48e4d6 0 0 0 17px, 
+      inset #e5f9f7 0 0 0 21px, 
+      inset #bfecf7 0 0 0 22px;
+    text-shadow: 3px 3px 1px #bfecf7;
+  }

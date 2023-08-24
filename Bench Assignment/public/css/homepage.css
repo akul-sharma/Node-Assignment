@@ -1,0 +1,22 @@
+.content{
+    padding-left: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+}
+.new{
+    margin: 5px;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 6px -6px 12px #949494, -6px 6px 12px #ffffff;
+    transition: 300ms;
+}
+.new:hover{
+    transform: scale(1.01);
+}
+.btn{
+    width:90%;
+}
+.navbar{
+    background-color: #BCEAD5;
+}
